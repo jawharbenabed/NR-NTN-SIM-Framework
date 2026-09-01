@@ -1,1 +1,1 @@
-# NR-NTN-SIM-Framwork
+# NR-NTN-SIM-Framework
